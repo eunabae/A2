@@ -1,0 +1,7 @@
+﻿  puzzle.cpp
+c:\users\dmsdk\documents\visual studio 2017\projects\puzzle\puzzle\puzzle.cpp(449): warning C4477: 'scanf' : 서식 문자열 '%d'에 'int *' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'char *'입니다.
+  c:\users\dmsdk\documents\visual studio 2017\projects\puzzle\puzzle\puzzle.cpp(449): note: 서식 문자열에서 '%hhd'을(를) 사용하는 것이 좋습니다.
+c:\users\dmsdk\documents\visual studio 2017\projects\puzzle\puzzle\puzzle.cpp(88): warning C4715: 'findXPosition': 모든 제어 경로에서 값을 반환하지는 않습니다.
+c:\users\dmsdk\documents\visual studio 2017\projects\puzzle\puzzle\puzzle.cpp(279): warning C4715: 'GetBlank': 모든 제어 경로에서 값을 반환하지는 않습니다.
+c:\users\dmsdk\documents\visual studio 2017\projects\puzzle\puzzle\puzzle.cpp(409): warning C4715: 'AStar': 모든 제어 경로에서 값을 반환하지는 않습니다.
+  Puzzle.vcxproj -> C:\Users\dmsdk\Documents\Visual Studio 2017\Projects\Puzzle\Debug\Puzzle.exe
